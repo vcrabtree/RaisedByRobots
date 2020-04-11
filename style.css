@@ -1,0 +1,11 @@
+body {
+    background-color: #787778;
+}
+
+#container {
+    width: 1024px;
+    height: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    background-image: url("backdrop.jpg");
+}

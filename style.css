@@ -1,0 +1,49 @@
+body {
+    background-color: #787778;
+}
+
+#container {
+    width: 1024px;
+    height: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    background-image: url("backdrop.jpg");
+}
+
+#top {
+    height: 150px;
+}
+
+.column {
+    width: 50%;
+    height: 500px;
+    float: left;
+}
+
+.robot_story {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 250px;
+    height: 500px;
+    background-image: url("robot_no_sign.jpg");
+}
+
+.robot_story:hover {
+    background-image: url("robot_story_sign.jpg");
+    cursor: pointer;
+}
+
+.robot_experience {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 250px;
+    height: 500px;
+    background-image: url("robot_no_sign.jpg");
+}
+
+.robot_experience:hover {
+    background-image: url("robot_experience_sign.jpg");
+    cursor: pointer;
+}

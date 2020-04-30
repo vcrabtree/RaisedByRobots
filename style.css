@@ -103,3 +103,15 @@ p {
 #scene_two:hover {
     background-image: url("scene_two_hover.jpg");
 }
+
+#scene_three {
+    width: 750px;
+    height: 563px;
+    margin-left: auto;
+    margin-right: auto;
+    background-image: url("scene_three.jpg");
+}
+
+#scene_three:hover {
+    cursor: pointer;
+}

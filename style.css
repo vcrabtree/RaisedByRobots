@@ -115,3 +115,16 @@ p {
 #scene_three:hover {
     cursor: pointer;
 }
+
+#scene_four {
+    width: 750px;
+    height: 563px;
+    margin-left: auto;
+    margin-right: auto;
+    background-image: url("scene_four_normal.jpg");
+}
+
+#scene_four:hover {
+    cursor: pointer;
+    background-image: url("scene_four_hover.jpg");
+}

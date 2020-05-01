@@ -128,3 +128,15 @@ p {
     cursor: pointer;
     background-image: url("scene_four_hover.jpg");
 }
+
+#scene_five {
+    width: 750px;
+    height: 563px;
+    margin-left: auto;
+    margin-right: auto;
+    background-image: url("scene_five_normal.jpg");
+}
+
+#scene_five:hover {
+    background-image: url("scene_five_hover.jpg");
+}

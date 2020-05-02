@@ -140,3 +140,47 @@ p {
 #scene_five:hover {
     background-image: url("scene_five_hover.jpg");
 }
+
+.col {
+    width: 33.33%;
+    height: 563px;
+    float: left;
+}
+
+#panel_one {
+    width: 240px;
+    height: 563px;
+    margin-left: auto;
+    margin-right: auto;
+    background-image: url("scene_six_panel_one_normal.jpg");
+}
+
+#panel_one:hover {
+    background-image: url("scene_six_panel_one_hover.jpg");
+}
+
+#panel_two {
+    width: 240px;
+    height: 563px;
+    margin-left: auto;
+    margin-right: auto;
+    background-image: url("scene_six_panel_two_normal.jpg");
+}
+
+#panel_two:hover {
+    background-image: url("scene_six_panel_two_hover.jpg");
+}
+
+#panel_three {
+    width: 240px;
+    height: 563px;
+    margin-left: auto;
+    margin-right: auto;
+    background-image: url("scene_six_panel_three_normal.jpg");
+}
+
+#panel_three:hover {
+    margin-left: auto;
+    margin-right: auto;
+    background-image: url("scene_six_panel_three_hover.jpg");
+}

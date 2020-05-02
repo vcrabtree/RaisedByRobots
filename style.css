@@ -184,3 +184,16 @@ p {
     margin-right: auto;
     background-image: url("scene_six_panel_three_hover.jpg");
 }
+
+#scene_seven {
+    width: 750px;
+    height: 563px;
+    margin-left: auto;
+    margin-right: auto;
+    background-image: url("scene_seven_normal.jpg");
+}
+
+#scene_seven:hover {
+    background-image: url("scene_seven_hover.jpg");
+    cursor: pointer;
+}

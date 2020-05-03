@@ -245,3 +245,16 @@ p {
 #scene_eleven:hover {
     cursor: pointer;
 }
+
+#scene_twelve {
+    width: 750px;
+    height: 563px;
+    margin-left: auto;
+    margin-right: auto;
+    background-image: url("scene_twelve_normal.jpg");
+}
+
+#scene_twelve:hover {
+    cursor: pointer;
+    background-image: url("scene_twelve_hover.jpg");
+}

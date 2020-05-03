@@ -221,3 +221,15 @@ p {
 #scene_nine:hover {
     background-image: url("scene_nine_hover.jpg");
 }
+
+#scene_ten {
+    width: 750px;
+    height: 563px;
+    margin-left: auto;
+    margin-right: auto;
+    background-image: url("scene_ten.jpg");
+}
+
+#scene_ten:hover {
+    cursor: pointer;
+}

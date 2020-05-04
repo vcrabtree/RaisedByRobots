@@ -270,3 +270,15 @@ p {
 #scene_thirteen:hover {
     cursor: pointer;
 }
+
+#scene_fourteen {
+    width: 750px;
+    height: 563px;
+    margin-left: auto;
+    margin-right: auto;
+    background-image: url("scene_fourteen.jpg");
+}
+
+#scene_fourteen:hover {
+    cursor: pointer;
+}

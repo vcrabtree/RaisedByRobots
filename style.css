@@ -306,3 +306,15 @@ p {
 #scene_sixteen:hover {
     cursor: pointer;
 }
+
+#scene_seventeen {
+    width: 750px;
+    height: 563px;
+    margin-left: auto;
+    margin-right: auto;
+    background-image: url("scene_seventeen.jpg");
+}
+
+#scene_seventeen:hover {
+    cursor: pointer;
+}

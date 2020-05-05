@@ -1,6 +1,6 @@
 function changeImage(index) {
     return function() {
-       let currentImage = 'second_parents'+(index+1)+'.jpg';
+       let currentImage = 'images/second_parents'+(index+1)+'.jpg';
        $('#scene_four').css({
            'background-image':'url('+currentImage+')'
        });

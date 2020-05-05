@@ -318,3 +318,29 @@ p {
 #scene_seventeen:hover {
     cursor: pointer;
 }
+
+#backdrop {
+    width: 1024px;
+    height: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    background-image: url("final_backdrop.jpg");
+}
+
+#head {
+    height: 200px;
+}
+
+#final_robot {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 250px;
+    height: 500px;
+    background-image: url("final_robot_no_sign.jpg");
+}
+
+#final_robot:hover {
+    background-image: url("final_robot_sign.jpg");
+    cursor: pointer;
+}
